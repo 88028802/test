@@ -1,2 +1,1 @@
-# test
-yes
+# this is the Music channel!
